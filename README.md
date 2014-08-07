@@ -10,7 +10,7 @@ a more *hipster* <a href="http://www.safran.io">safran.io</a> reader - on your c
 ### installation
 
 ```bash
-$ pip install safran
+$ (sudo) pip install safran
 ```
 
 ### running
